@@ -37,7 +37,7 @@ A prototype for trying out a day in Lugano on an illustrated map before actually
 
 Hand-coded, no templates, no page builders.
 
-[Idros Milano Marittima](https://idrosmilanomarittima.it) · [Pasta Lovers](https://pastalovers.com.au) · [La Brace](https://labrace.ch) · [Keyo Tattoo Studio](https://keyotattoostudio.ch) · [Ondus Tattoo](https://ondustattoo.ink) · [Samuel Rhawi by Nursel](https://samuelrhawibynursel.com) · [PoPaCi Pictures](https://popaci.com) · [Pronto Pizza da Fabio](https://ristoranteppdafabio.it)
+[Idros Milano Marittima](https://idrosmilanomarittima.it) · [Pasta Lovers](https://pastalovers.com.au) · [La Brace](https://labrace.ch) · [Ondus Tattoo](https://ondustattoo.ink) · [Samuel Rhawi by Nursel](https://samuelrhawibynursel.com) · [PoPaCi Pictures](https://popaci.com) · [Pronto Pizza da Fabio](https://ristoranteppdafabio.it)
 
 ## Stack
 
