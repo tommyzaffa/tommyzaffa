@@ -6,6 +6,10 @@ Right now I'm CTO at [PoPaCi](https://popaci.com), a film production company, an
 
 ## Things I've built
 
+### [IBSA Foundation Forum live captions](https://tommyzaffa.github.io/ibsa-live-2026/?qr=1) · [`ibsa-live-2026`](https://github.com/tommyzaffa/ibsa-live-2026)
+
+Commissioned by IBSA Foundation for scientific research for its forum on artificial intelligence in biomedicine (Lugano, 6 November 2026), organised with IDSIA USI-SUPSI as part of Swiss AI Weeks. A full day of talks in English, followed by the audience in Italian on their phones after scanning a QR code. A control room page sends the mixer's audio to Soniox, and the glossary uses IBSA's own professional translations so names and terms match the event site.
+
 ### [Merge Film Festival](https://mergefestival.ch) · [`mff`](https://github.com/tommyzaffa/mff)
 
 The festival's site in four languages and the system its first edition ran on (1-4 October 2026):
